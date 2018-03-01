@@ -1,0 +1,6 @@
+#select <blah> to the end of the line
+##windows
+<blah> .*\r\n
+
+##not windows
+<blah> .*\n

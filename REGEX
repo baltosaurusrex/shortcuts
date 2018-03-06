@@ -4,3 +4,11 @@
 
 ##not windows
 <blah> .*\n
+
+#general
+() grouping
+[] range of characters
+\s space
+.* everything
+
+in replace, \<numeral> group number

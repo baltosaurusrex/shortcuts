@@ -1,0 +1,12 @@
+BSD DNS
+/etc/hosts
+addr  hostname alias1
+
+/etc/resolv.conf
+nameserver addr
+serach domain
+domain name
+
+#check here for Unbound
+/etc/rc.conf
+local_unbound_enable="YES"
